@@ -1,0 +1,15 @@
+/Users/thobelacs/Projects/CustomerApp/CustomerApp/bin/Debug/net6.0/CustomerApp
+/Users/thobelacs/Projects/CustomerApp/CustomerApp/bin/Debug/net6.0/CustomerApp.deps.json
+/Users/thobelacs/Projects/CustomerApp/CustomerApp/bin/Debug/net6.0/CustomerApp.runtimeconfig.json
+/Users/thobelacs/Projects/CustomerApp/CustomerApp/bin/Debug/net6.0/CustomerApp.dll
+/Users/thobelacs/Projects/CustomerApp/CustomerApp/bin/Debug/net6.0/CustomerApp.pdb
+/Users/thobelacs/Projects/CustomerApp/CustomerApp/obj/Debug/net6.0/CustomerApp.csproj.AssemblyReference.cache
+/Users/thobelacs/Projects/CustomerApp/CustomerApp/obj/Debug/net6.0/CustomerApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thobelacs/Projects/CustomerApp/CustomerApp/obj/Debug/net6.0/CustomerApp.AssemblyInfoInputs.cache
+/Users/thobelacs/Projects/CustomerApp/CustomerApp/obj/Debug/net6.0/CustomerApp.AssemblyInfo.cs
+/Users/thobelacs/Projects/CustomerApp/CustomerApp/obj/Debug/net6.0/CustomerApp.csproj.CoreCompileInputs.cache
+/Users/thobelacs/Projects/CustomerApp/CustomerApp/obj/Debug/net6.0/CustomerApp.dll
+/Users/thobelacs/Projects/CustomerApp/CustomerApp/obj/Debug/net6.0/refint/CustomerApp.dll
+/Users/thobelacs/Projects/CustomerApp/CustomerApp/obj/Debug/net6.0/CustomerApp.pdb
+/Users/thobelacs/Projects/CustomerApp/CustomerApp/obj/Debug/net6.0/CustomerApp.genruntimeconfig.cache
+/Users/thobelacs/Projects/CustomerApp/CustomerApp/obj/Debug/net6.0/ref/CustomerApp.dll
